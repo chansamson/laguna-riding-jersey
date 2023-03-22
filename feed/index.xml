@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://chansamson.github.io/laguna-riding-jersey/wp-content/uploads/2023/03/cropped-275921158_490284772545723_6960728950985066703_n-32x32.jpg</url>
+	<title>Laguna Riding Jersey</title>
+	<link>https://chansamson.github.io/laguna-riding-jersey/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://chansamson.github.io/laguna-riding-jersey/hello-world/</link>

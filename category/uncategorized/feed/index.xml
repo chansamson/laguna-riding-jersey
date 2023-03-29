@@ -12,20 +12,28 @@
 	<atom:link href="https://chansamson.github.io/laguna-riding-jersey/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://chansamson.github.io/laguna-riding-jersey/</link>
 	<description></description>
-	<lastBuildDate>Tue, 21 Mar 2023 15:43:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Mar 2023 13:18:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://chansamson.github.io/laguna-riding-jersey/wp-content/uploads/2023/03/cropped-275921158_490284772545723_6960728950985066703_n-32x32.jpg</url>
+	<title>Uncategorized &#8211; Laguna Riding Jersey</title>
+	<link>https://chansamson.github.io/laguna-riding-jersey/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://chansamson.github.io/laguna-riding-jersey/hello-world/</link>
 					<comments>https://chansamson.github.io/laguna-riding-jersey/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 21 Mar 2023 15:43:44 +0000</pubDate>
+		<pubDate>Tue, 28 Mar 2023 13:18:09 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://chansamson.github.io/laguna-riding-jersey/?p=1</guid>
 
